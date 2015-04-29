@@ -14,3 +14,4 @@
 |Friday 15th May 2015   | Peter Uy          |                                               | 
 |Friday 22nd May 2015   | Barney Bishop     |                                               | 
 |Friday 29th May 2015   | Cyril George      |                                               | 
+|Friday 5th June 2015   | Bryce Levido      | Glen Deveron 16 Year                          |
